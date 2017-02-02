@@ -9,6 +9,11 @@
 	box-sizing: border-box;
 }
 
+body{
+	float: left;
+	width: 100%;
+}
+
 h1{
 	margin: 20px;
 	font-style: italic;
@@ -32,10 +37,10 @@ p{
 }
 #lista{
 	font-style: italic;
- 	width: 100px; margin: 0 auto;
+ 	width: 7.3206442166910688140556368960469%; margin: 0 auto;
 }
 #icone{
- width: 40px; margin: 0 auto;
+ width: 2.9282576866764275256222547584187%; margin: 0 auto;
 }
 
 .circular {
