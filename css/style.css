@@ -1,12 +1,15 @@
 h1,h2{
+	font-style: italic;
 	text-align: center;
 }
 
 p{
+	font-style: italic;
 	text-align: center;
 }
 #lista{
- width: 130px; margin: 0 auto;
+	font-style: italic;
+ 	width: 130px; margin: 0 auto;
 }
 #icone{
  width: 40px; margin: 0 auto;
