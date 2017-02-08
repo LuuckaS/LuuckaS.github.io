@@ -35,14 +35,33 @@ p{
 	text-align: center;
 	font-size: 20px;
 }
+
 #lista{
 	font-style: italic;
  	width: 7.3206442166910688140556368960469%; margin: 0 auto;
+}
+
+.conhecimento{
+	font-size: 30px;
 }
 #icone{
  width: 2.9282576866764275256222547584187%; margin: 0 auto;
 }
 
+.logoFace{
+	border-radius: 150px;
+}
+
+.imgNav{
+
+left: 90px; /* posiciona a 90px para a esquerda */ 
+	top: 70px;
+}
+
+.ancora{
+	width: 130px; margin: 0 auto;
+
+}
 .circular {
 	width: 130px; margin: 0 auto;
 	width: 200px;
@@ -51,3 +70,20 @@ p{
 	border-radius: 150px;
 	background: url(../img/pf.jpeg) no-repeat;
 	}
+
+	footer {
+    position: absolute;
+    background-color: #222222;
+    height: 40px;
+    width: 100%;
+    box-shadow: 0px 0px 10px black;
+    z-index: 1;
+}
+
+.footer1 {
+    bottom: -200px;
+}
+
+.footer2 {
+    bottom: 0px;
+}
