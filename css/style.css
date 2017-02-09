@@ -8,6 +8,13 @@
 	font-weight: 300;
 	box-sizing: border-box;
 }
+html, body {height:100%;}
+
+.geral {
+	min-height:100%;
+	position:relative;
+	width:100%;
+}
 
 body{
 	float: left;
